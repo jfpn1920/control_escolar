@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de un Sistema de Control Escolar en Pyth
 
 El sistema permite visualizar los cursos disponibles y asignar estudiantes a un curso específico. Cada curso está asociado a un profesor y mantiene una lista de estudiantes inscritos, lo que demuestra la aplicación de relaciones entre objetos, como asociación y composición. La organización del sistema se basa en los principios de la Programación Orientada a Objetos (POO), promoviendo una estructura modular, clara y escalable.
 
-Este proyecto fortalece el entendimiento de múltiples clases interactuando entre sí, así como la manipulación dinámica de listas de objetos. Además, refuerza habilidades como validación de datos.
+Este proyecto fortalece el entendimiento de múltiples clases interactuando entre sí, así como la manipulación dinámica de listas de objetos.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
